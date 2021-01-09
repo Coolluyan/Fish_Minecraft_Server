@@ -1,0 +1,23 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2020-06-07 12:03:19 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-06-07 12:03:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-05-24 17:01:33 +0800",
+      "minecraft:wooded_hills": "2020-05-24 17:01:29 +0800",
+      "minecraft:plains": "2020-05-24 16:57:08 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
