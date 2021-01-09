@@ -1,0 +1,176 @@
+{
+  "triumph:levitated/resources/end_coal": {
+    "criteria": {
+      "hasEndCoal": "2020-12-26 21:52:55 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/chorus_fruit": {
+    "criteria": {
+      "chorus_consumed": "2020-12-26 21:49:03 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-12-26 21:24:20 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_lilly": {
+    "criteria": {
+      "hasEnderLilly": "2020-12-26 22:40:20 +0800"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2020-12-26 22:29:11 +0800"
+    },
+    "done": true
+  },
+  "botania:main/mana_cookie_eat": {
+    "criteria": {
+      "cookie": "2020-12-26 22:21:41 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_matter": {
+    "criteria": {
+      "hasEndMatter": "2020-12-26 21:25:11 +0800"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2020-12-26 22:29:11 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_diamond": {
+    "criteria": {
+      "hasEndDiamond": "2020-12-26 22:20:18 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_iron": {
+    "criteria": {
+      "hasEnderIron": "2020-12-28 13:19:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/mana_pool": {
+    "criteria": {
+      "hasManaPool": "2020-12-26 21:43:43 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/easteregg/root": {
+    "criteria": {
+      "location": "2020-12-26 21:24:20 +0800"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "pressure_tube": "2020-12-26 22:30:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/living_blocks": {
+    "criteria": {
+      "hasBlockLiving": "2020-12-26 21:43:52 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/nether/star": {
+    "criteria": {
+      "hasNetherStar": "2020-12-26 22:19:05 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/info": {
+    "criteria": {
+      "location": "2020-12-26 21:24:20 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/endstone_shard": {
+    "criteria": {
+      "hasEndShard": "2020-12-26 21:28:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/nether/solar": {
+    "criteria": {
+      "hasSolar": "2020-12-26 22:46:12 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/root": {
+    "criteria": {
+      "location": "2020-12-26 21:24:20 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/nether/angel_ring": {
+    "criteria": {
+      "hasAngelRing": "2020-12-26 22:44:42 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/root": {
+    "criteria": {
+      "location": "2020-12-26 21:24:20 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/tool_station": {
+    "criteria": {
+      "hasToolStation": "2020-12-26 21:32:32 +0800"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2020-12-26 22:29:11 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_iron": {
+    "criteria": {
+      "hasEndIron": "2020-12-26 21:57:10 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_log": {
+    "criteria": {
+      "hasEndLog": "2020-12-26 21:30:11 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_copper": {
+    "criteria": {
+      "hasEndCopper": "2020-12-26 21:59:11 +0800"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "pool": "2020-12-26 21:43:43 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/waystone": {
+    "criteria": {
+      "hasWaystone": "2020-12-26 22:31:50 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/chaos_pearl": {
+    "criteria": {
+      "hasChaosPearl": "2020-12-26 21:35:55 +0800"
+    },
+    "done": true
+  }
+}

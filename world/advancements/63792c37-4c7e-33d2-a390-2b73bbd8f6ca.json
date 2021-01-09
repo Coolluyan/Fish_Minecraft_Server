@@ -1,0 +1,68 @@
+{
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2020-12-04 23:14:14 +0800"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2020-12-04 23:14:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/info": {
+    "criteria": {
+      "location": "2020-12-04 23:09:46 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-12-04 23:09:46 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_lilly": {
+    "criteria": {
+      "hasEnderLilly": "2020-12-04 23:16:02 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_log": {
+    "criteria": {
+      "hasEndLog": "2020-12-04 23:13:28 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/endstone_shard": {
+    "criteria": {
+      "hasEndShard": "2020-12-04 23:12:39 +0800"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2020-12-04 23:14:14 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/root": {
+    "criteria": {
+      "location": "2020-12-04 23:09:46 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/root": {
+    "criteria": {
+      "location": "2020-12-04 23:09:46 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/easteregg/root": {
+    "criteria": {
+      "location": "2020-12-04 23:09:46 +0800"
+    },
+    "done": true
+  }
+}

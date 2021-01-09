@@ -1,0 +1,116 @@
+{
+  "triumph:levitated/resources/end_coal": {
+    "criteria": {
+      "hasEndCoal": "2020-12-05 16:41:12 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/chorus_fruit": {
+    "criteria": {
+      "chorus_consumed": "2020-12-05 16:16:39 +0800"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2020-12-05 16:10:30 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-12-05 16:06:21 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/info": {
+    "criteria": {
+      "location": "2020-12-05 16:06:22 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_lilly": {
+    "criteria": {
+      "hasEnderLilly": "2020-12-05 16:56:00 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2020-12-05 16:10:30 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/endstone_shard": {
+    "criteria": {
+      "hasEndShard": "2020-12-05 16:24:24 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2020-12-05 16:10:30 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2020-12-05 16:10:30 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/root": {
+    "criteria": {
+      "location": "2020-12-05 16:06:22 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/root": {
+    "criteria": {
+      "location": "2020-12-05 16:06:22 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_matter": {
+    "criteria": {
+      "hasEndMatter": "2020-12-05 16:34:48 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_iron": {
+    "criteria": {
+      "hasEndIron": "2020-12-05 16:49:53 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/end_log": {
+    "criteria": {
+      "hasEndLog": "2020-12-05 16:21:20 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/end_copper": {
+    "criteria": {
+      "hasEndCopper": "2020-12-05 16:41:56 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/furnace": {
+    "criteria": {
+      "hasFurnace": "2020-12-05 17:02:06 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/ender_iron": {
+    "criteria": {
+      "hasEnderIron": "2020-12-05 16:31:00 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/easteregg/root": {
+    "criteria": {
+      "location": "2020-12-05 16:06:22 +0800"
+    },
+    "done": true
+  }
+}

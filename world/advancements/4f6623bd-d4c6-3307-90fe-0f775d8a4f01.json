@@ -1,0 +1,32 @@
+{
+  "triumph:levitated/end/info": {
+    "criteria": {
+      "location": "2020-12-27 12:48:13 +0800"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-12-27 12:48:13 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/end/root": {
+    "criteria": {
+      "location": "2020-12-27 12:48:13 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/resources/root": {
+    "criteria": {
+      "location": "2020-12-27 12:48:13 +0800"
+    },
+    "done": true
+  },
+  "triumph:levitated/easteregg/root": {
+    "criteria": {
+      "location": "2020-12-27 12:48:13 +0800"
+    },
+    "done": true
+  }
+}
