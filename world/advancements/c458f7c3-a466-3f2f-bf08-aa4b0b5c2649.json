@@ -1,0 +1,35 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-05-29 21:34:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2021-05-29 21:29:23 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-05-29 21:29:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-05-29 21:25:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-05-29 21:20:00 +0800",
+      "minecraft:savanna": "2021-05-29 21:21:41 +0800",
+      "minecraft:plains": "2021-05-29 21:22:06 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

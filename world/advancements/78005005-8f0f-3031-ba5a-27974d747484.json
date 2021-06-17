@@ -1,0 +1,11 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-06-07 08:39:04 +0800",
+      "minecraft:savanna": "2021-06-07 08:40:40 +0800",
+      "minecraft:plains": "2021-06-07 08:40:33 +0800"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
